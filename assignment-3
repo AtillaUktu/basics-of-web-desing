@@ -94,7 +94,7 @@
         </tr>    
                         
         </table><br>    
-        <input type="submit" value="Başvuruyu Gönderin">
+            <input type="submit" value="Başvuruyu Gönderin">
         </form>
         <p>
             Gerekli bilgileri doldurduktan sonra<br>
