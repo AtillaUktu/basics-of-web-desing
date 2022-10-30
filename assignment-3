@@ -93,9 +93,5 @@
         </table><br>    
         <input type="submit" value="Başvuruyu Gönderin">
         </form>
-        <p>
-            Gerekli bilgileri doldurduktan sonra<br>
-            başvuruyu gönderebilirsiniz.
-        </p>
     </body>
 </html>
