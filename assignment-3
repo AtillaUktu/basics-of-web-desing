@@ -8,9 +8,9 @@
     <body style="text-align:center;">
         
         <tr bgcolor="">
-            <td style="text-align: center; vertical-align: middle;" rowspan="1"><h1 style="color:black;"><br> İş Başvuru Formu</h1></td>
+            <td style="text-align: center; vertical-align: middle;" rowspan="1"><h1 style="color:rgb(21, 0, 254);"><br> İş Başvuru Formu</h1></td>
         </tr><br>
-        <tr bgcolor= "Tan">
+        <tr >
             <td style="text-align: center; vertical-align: middle;"><h4><br> Genel bilgiler </h4></td>     
         </tr>
 
@@ -46,7 +46,7 @@
             <td>Ev telefonu: <input type="text" name="e-postanız"
                                     placeholder="Ev telefonu"></td>                       
         </tr>     
-        <tr bgcolor= "Tan">
+        <tr >
             <td style="text-align: center; vertical-align: middle;"><h4><br> İLETİŞİM BİLGİLERİ </h4></td>                      
         </tr>     
         <tr>
@@ -61,7 +61,7 @@
             <td>Adresiniz: <br><textarea name="adres" cols="50" rows="5"></textarea></td>                       
         </tr>      
 
-        <tr bgcolor= "Tan">
+        <tr>
             <td style="text-align: center; vertical-align: middle;"><h4><br> DİĞER BİLGİLER </h4></td>                      
         </tr>     
         
@@ -94,7 +94,7 @@
         </tr>    
                         
         </table><br>    
-            <input type="submit" value="Başvuruyu Gönderin">
+        <input type="submit" value="Başvuruyu Gönderin">
         </form>
         <p>
             Gerekli bilgileri doldurduktan sonra<br>
