@@ -1,0 +1,116 @@
+body,h1,ul,li,img,p{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: black;
+}
+.menu-ust{
+	background-color: gray;
+	height: 60px;
+}
+ 
+#logo{
+	float: left;
+	width: 350px;
+	margin-left: 30px;
+}
+#logo h1{
+	color: white;
+	line-height: 60px;
+}
+.menu{
+	float: right;
+	margin-right: 50px;
+}
+ 
+.menu li{
+       
+    list-style-type: none;
+	float: left;
+	line-height: 60px;
+}
+     
+.menu ul li a{
+		 
+       text-decoration: none;
+       color: whitesmoke;
+	   font-weight: 900;
+       display: block;
+       text-align: center;
+       transition: 1s;     
+	   font-family: calibri,arial,verdana;
+	   font-size: 20px;
+	   width: 180px;
+	   float: left;line-height: 60px;
+	
+	}
+          
+     .menu a:hover{
+      
+		background-color: #5FD367; 
+       	color: #005555;       
+       
+     }
+.sayfa{
+	width: 960px;
+	margin: 5px auto;
+	background-color: azure;
+}
+.img{
+    float: left;
+
+}
+.yazi{
+	float:right ;
+	width: 540px;
+	margin-left: 20px;
+}
+.yazi h1{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	text-align: center;
+}
+.yazi p{
+    margin-right: 5px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+}
+ 
+.gri{
+	background-color: gray;
+	height: 40px;
+}
+.gri p{
+	font-size: 16pt;
+	color: white;
+	line-height: 40px;
+	text-align: center;
+}
+ 
+.card{
+	width: 300px;
+	float: left;
+	margin:10px;
+}
+.kutu p{
+    text-align: center;
+}
+.kutu h1{
+    text-align: center;
+}
+.card img{
+	margin: auto;
+}
+.alt{
+	background-color: gray;
+	height: 50px;
+}
+.alt h1{
+	line-height: 50px;
+	text-align: center;
+	color: white;
+}
+.temizle{
+	clear: both;
+}
+ 
